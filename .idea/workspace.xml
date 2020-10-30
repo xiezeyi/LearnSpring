@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e751d3-b328-4fed-950a-474388029a35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/Spring-01-ioc1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/dao/UserDaoMysqlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/dao/UserDaoOracleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/java/com/kuang/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/dao/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/dao/UserDaoMysqlImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/dao/UserDaoOracleImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/classes/com/kuang/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-ioc1/target/test-classes/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/Spring-02-hellospring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/src/main/java/com/kuang/pojo/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/target/classes/com/kuang/pojo/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-hellospring/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/Spring-03-ioc2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/java/com/kuang/pojo/UserT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/resources/applicationContest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/resources/bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/main/resources/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/applicationContest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/com/kuang/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/classes/com/kuang/pojo/UserT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-ioc2/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/main/java/com/kuang/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/main/java/com/kuang/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/main/resources/userbeans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/classes/com/kuang/pojo/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/classes/com/kuang/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/classes/com/kuang/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/classes/userbeans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-di/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/main/java/com/kuang/pojo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/main/java/com/kuang/pojo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/main/java/com/kuang/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/main/resources/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/classes/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/classes/com/kuang/pojo/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/classes/com/kuang/pojo/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/classes/com/kuang/pojo/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-Autowired/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/Spring-06-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/main/java/com/kuang/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/main/java/com/kuang/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/main/java/com/kuang/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/META-INF/Spring-06-anno.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/com/kuang/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/com/kuang/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/com/kuang/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/classes/com/kuang/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-anno/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/Spring-07-appconfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/src/main/java/com/kuang/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/src/test/java/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/target/classes/com/kuang/config/MyConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/target/classes/com/kuang/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-appconfig/target/test-classes/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StyleTransfer-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StyleTransfer-01/需求分析-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-study.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Develop/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j8q2IyODL5NWlYYDkIQrYxVId4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-04-di/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33975902" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringLearn\Spring-04-di\src\main\resources" />
+      <recent name="D:\SpringLearn\Spring-03-ioc2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mytest (1)">
+    <configuration name="Mytest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <module name="Spring-07-appconfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <module name="Spring-06-anno" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-06-anno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-05-Autowired" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-05-Autowired" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mytest (1)" />
+        <item itemvalue="Application.Mytest" />
+        <item itemvalue="JUnit.Mytest.test1 (1)" />
+        <item itemvalue="JUnit.Mytest.test2 (1)" />
+        <item itemvalue="JUnit.Mytest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e751d3-b328-4fed-950a-474388029a35" name="Default Changelist" comment="" />
+      <created>1603195857463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603195857463</updated>
+      <workItem from="1603195861658" duration="8260000" />
+      <workItem from="1603268068044" duration="20483000" />
+      <workItem from="1603676696925" duration="2529000" />
+      <workItem from="1603759735334" duration="1198000" />
+      <workItem from="1604027327192" duration="5000" />
+      <workItem from="1604071815214" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1603289044776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603289044776" />
+    <state x="480" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603677589388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603677589388" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1603292070739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603292070739" />
+    <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603290728120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1603290728120" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603290700567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603290700567" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1603293027738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603293027738" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1603293027738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603293027738" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1603293027738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603293027738" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1603293027738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603293027738" />
+    <state x="313" y="166" key="new project wizard" timestamp="1603676847065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="313" y="166" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603676847065" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603292801408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603292801408" />
+    <state x="449" y="104" key="spring file set editor" timestamp="1603289129793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="104" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1603289129793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Spring-02-hellospring/src/test/java/Mytest.java</url>
+          <line>5</line>
+          <properties class="Mytest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
