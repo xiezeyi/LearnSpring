@@ -17,6 +17,7 @@
         <module>Spring-06-anno</module>
         <module>Spring-07-appconfig</module>
         <module>StyleTransfer-01</module>
+        <module>Spring-08-proxy</module>
     </modules>
 
     <dependencies>

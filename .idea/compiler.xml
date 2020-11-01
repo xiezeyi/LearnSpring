@@ -12,6 +12,7 @@
         <module name="Spring-05-Autowired" />
         <module name="StyleTransfer-01" />
         <module name="Spring-04-di" />
+        <module name="Spring-08-proxy" />
         <module name="Spring-01-ioc1" />
         <module name="Spring-02-hellospring" />
       </profile>
